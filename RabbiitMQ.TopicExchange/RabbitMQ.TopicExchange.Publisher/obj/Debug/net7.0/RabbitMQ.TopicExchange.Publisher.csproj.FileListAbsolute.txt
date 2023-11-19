@@ -1,0 +1,17 @@
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\bin\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.exe
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\bin\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.deps.json
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\bin\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\bin\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.dll
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\bin\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.pdb
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.dll
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\refint\RabbitMQ.TopicExchange.Publisher.dll
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.pdb
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\ref\RabbitMQ.TopicExchange.Publisher.dll
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbiitMQ.TopicExchange\RabbitMQ.TopicExchange.Publisher\obj\Debug\net7.0\RabbitMQ.TopicExchange.Publisher.csproj.CopyComplete
