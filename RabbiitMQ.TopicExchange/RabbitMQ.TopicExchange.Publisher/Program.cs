@@ -2,7 +2,7 @@
 using System.Text;
 
 var factory = new ConnectionFactory();
-factory.Uri = new Uri("amqps://wylxhthv:9gEUm_Hi-PGavdDsheGhvL106sliPAi5@shark.rmq.cloudamqp.com/wylxhthv");
+factory.Uri = new Uri(System.Environment.GetEnvironmentVariable("RABBITMQ_URI") ?? "amqp://guest:guest@localhost:5672");
 
 using var connection = factory.CreateConnection();
 var channel = connection.CreateModel();

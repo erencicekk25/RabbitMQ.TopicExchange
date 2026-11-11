@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbiitMQ.TopicExchange\\RabbitMQ.TopicExchange.Consumer\\RabbitMQ.TopicExchange.Consumer.csproj": {}
+    "C:\\Users\\cicek\\AppData\\Local\\Temp\\claude\\112b3bdf2f106a3a\\3425ae6a-121d-4f8a-8278-acdd90cc940d\\scratchpad\\repos\\RabbitMQ.TopicExchange\\RabbiitMQ.TopicExchange\\RabbitMQ.TopicExchange.Consumer\\RabbitMQ.TopicExchange.Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbiitMQ.TopicExchange\\RabbitMQ.TopicExchange.Consumer\\RabbitMQ.TopicExchange.Consumer.csproj": {
+    "C:\\Users\\cicek\\AppData\\Local\\Temp\\claude\\112b3bdf2f106a3a\\3425ae6a-121d-4f8a-8278-acdd90cc940d\\scratchpad\\repos\\RabbitMQ.TopicExchange\\RabbiitMQ.TopicExchange\\RabbitMQ.TopicExchange.Consumer\\RabbitMQ.TopicExchange.Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbiitMQ.TopicExchange\\RabbitMQ.TopicExchange.Consumer\\RabbitMQ.TopicExchange.Consumer.csproj",
+        "projectUniqueName": "C:\\Users\\cicek\\AppData\\Local\\Temp\\claude\\112b3bdf2f106a3a\\3425ae6a-121d-4f8a-8278-acdd90cc940d\\scratchpad\\repos\\RabbitMQ.TopicExchange\\RabbiitMQ.TopicExchange\\RabbitMQ.TopicExchange.Consumer\\RabbitMQ.TopicExchange.Consumer.csproj",
         "projectName": "RabbitMQ.TopicExchange.Consumer",
-        "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbiitMQ.TopicExchange\\RabbitMQ.TopicExchange.Consumer\\RabbitMQ.TopicExchange.Consumer.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbiitMQ.TopicExchange\\RabbitMQ.TopicExchange.Consumer\\obj\\",
+        "projectPath": "C:\\Users\\cicek\\AppData\\Local\\Temp\\claude\\112b3bdf2f106a3a\\3425ae6a-121d-4f8a-8278-acdd90cc940d\\scratchpad\\repos\\RabbitMQ.TopicExchange\\RabbiitMQ.TopicExchange\\RabbitMQ.TopicExchange.Consumer\\RabbitMQ.TopicExchange.Consumer.csproj",
+        "packagesPath": "C:\\Users\\cicek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cicek\\AppData\\Local\\Temp\\claude\\112b3bdf2f106a3a\\3425ae6a-121d-4f8a-8278-acdd90cc940d\\scratchpad\\repos\\RabbitMQ.TopicExchange\\RabbiitMQ.TopicExchange\\RabbitMQ.TopicExchange.Consumer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\cicek\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -61,12 +60,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.114\\RuntimeIdentifierGraph.json"
         }
       }
     }
